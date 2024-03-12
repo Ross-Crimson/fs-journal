@@ -27,7 +27,9 @@
     > The Selector(what we're targeting), "h1"; The Property(what we're changing), "color"; and The Value(value of the property) "rgba(255, 210, 33, .75)"
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > | ANSWER HERE |
+    > A lot can be conveyed through design and there's a lot of importance in design. For example mood can be conveyed through color, images, and even font. If someone wanted to make a website about vampires(I don't know why) then a darker page with a more gothic font could really bring the feeling home. Where if that site had more bubbly font it could end up feeling off or a like a joke.
+
+    Another good design choice, is attempting to make font readable and accessible. Here style and font color are both important. If you have someone with weaker vision they may not even be able to see the text on your page if two colors are too close. Or those colors could clash like putting white on yellow or vice versa.
 
 08. What is the purpose of ***wireframing***?
     > | ANSWER HERE |
