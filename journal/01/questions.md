@@ -32,13 +32,13 @@
     Another good design choice, is attempting to make font readable and accessible. Here style and font color are both important. If you have someone with weaker vision they may not even be able to see the text on your page if two colors are too close. Or those colors could clash like putting white on yellow or vice versa.
 
 08. What is the purpose of ***wireframing***?
-    > | ANSWER HERE |
+    > Wireframing allows a developer, designer or really anyone wanting to lay out their ideas for any kind of app, webpage or product in a low investment environment. Rather than spending an extended period of time making something only to throw all that work away. A wireframe allows for a quick iterative process to come up with the best solutions for goals possible before investing time into development.
 
 09. Do you think wireframes are worth the time, energy, and effort that they require? Why or Why not?
-    > | ANSWER HERE |
+    > I do think they're worth the time and effort. The larger the project, the more costly changes down the line can become. So having a strong start point with a good wireframe can save money and more importantly time.
 
 10. Define the display `:flex property:`
-    > | ANSWER HERE |
+    > The flex property gives you control of how to organize content, spacing the content evenly with a handful of options to seperate things evenly with varying amounts of space and positioning on the page.
 
 11. What `CSS` properties affect the size of a box model?
-    > | ANSWER HERE |
+    > Content, padding, border, and margin.
