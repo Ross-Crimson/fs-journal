@@ -4,7 +4,7 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 ## Prompts
 - What went well this week?
 - What did you learn that was a shock or surprise?
-- What are you struggling with?
+- What are you struggling with? I'd say my current biggest struggle is properly utilizing justify/flex in bootstrap. Alone it makes a lot of sense when building from scratch, but the bootstrap implimentation feels finicky at times. Like at points it seems to work great and others I struggle to get something to work. I'm not sure if that's me missing something, needing to overrwrite a peice of bootstrap css or some combination of both.
 - What would you count as a victory?
 
 ## Notes
