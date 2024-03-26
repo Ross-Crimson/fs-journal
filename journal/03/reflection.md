@@ -7,5 +7,5 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 - What are you struggling with?
 - What would you count as a victory?
 
-## Prompts
+## Notes
 - `bcw create` to use codeworks tool get a mvc pattern project template. Will be used to make other templates as well

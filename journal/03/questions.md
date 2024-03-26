@@ -1,7 +1,11 @@
 # Application Architecture, MVC Design Pattern
 01. What are the Pillars of Object Oriented Programming (`OOP`)?
   
-  > | ANSWER HERE |
+  > The 4 pillars are Extraction, encapsulation, abstraction, and polymorphism.
+  -Extraction: As it sounds, extracting code normally to be injected with a new piece.
+  -Encapsulation: protecting data, ensuring that it can only be directly handled internally through defined functions which can be made public
+  -Abstraction: Writing code that remains abstract in context, allowing for more flexible code to be referenced or injected later.
+  -Polymorphism: Having code take on structure of a differet piece that allows it to be more easily re-used. For example you might have a few objects/classes named Cat, Dog, Bear. These can all extend from a Animal class which can inject more information that the prior 3 would have in common as they're all animals.
 
 02. How does `export` differ from `export default`?
   
@@ -13,7 +17,7 @@
 
 04. What are some of the benefits of the `Proxy` object that we are using in our structure for applications?
   
-  > | ANSWER HERE |
+  > Proxies allow you to assign simple functions to an object's property through the get function.
 
 05. What the difference between a `class` and an instance of a `class`?
   
@@ -21,7 +25,7 @@
 
 06. What is a computed Property?
   
-  > | ANSWER HERE |
+  > A property that has been calculated through a function.
 
 07. What is the purpose of the `MVC` pattern?
   
