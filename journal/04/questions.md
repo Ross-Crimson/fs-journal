@@ -13,7 +13,7 @@
 
 04. What is a callback / higher order function?
 
-  > | ANSWER HERE |
+  > A callback is a naming convention for a function inside of javascript.
 
 05. What is a `promise`? How do you capture an error from a `promise`?
 
@@ -23,7 +23,7 @@
 
 06. Name three processes used to make requests over `HTTP`?
 
-  > | ANSWER HERE |
+  > Get, Post, and Put
 
 07. What does the `API` acronym stand for?
 
@@ -35,11 +35,11 @@
 
 09. What is the purpose of encapsulation in programming?
 
-  > | ANSWER HERE |
+  > The purpose of encapsulation is to restrict the access to certain data inside of a project.
 
 10. What is `HTTP` response code for a successful request?
 
-  > | ANSWER HERE |
+  > 200
 
 11. What is a 400 error?
 
