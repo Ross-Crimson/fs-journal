@@ -1,7 +1,10 @@
 # Intro to Server side concerns with JavaScript
 01. What do the letters of the acronym `CRUD` stand for?
 
-  > | ANSWER HERE |
+  > C-create
+    R-read
+    U-update
+    D-delete
 
 02. Each action that `CRUD` represents maps to an HTTP request. What HTTP request does each `CRUD` action correspond to?
 
