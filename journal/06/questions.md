@@ -9,15 +9,15 @@
 
 03. What is ***Component-Based Architecture***?
 
-  > | ANSWER HERE |
+  > Component based architecture is seperating objects into individual components. Where the view and the functions the view needs are tied into one space.
 
 04. What are the three tags that make up a Vue component?
 
-  > | ANSWER HERE |
+  > Script, Template and Style
 
 05. What are ***lifecycle hooks***? What are lifecycle hooks used for?
 
-  > | ANSWER HERE |
+  > Lifestyle hooks are how the library you're using is working behind the scenes. Hooks are used for knowing when certain pieces of what you're using are called in so that you can understand when pieces of your code are being brought in.
 
 06. Which component in Vue does the vue-router use to mount pages onto?
 
