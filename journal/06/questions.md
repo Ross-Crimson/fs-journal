@@ -1,11 +1,11 @@
 # Single Page Applications with Vue
 01. What is the entrypoint of an application?
 
-  > | ANSWER HERE |
+  > The place where the execution of a program begins.
 
 02. What is the difference between a vue `component` and `page`?
 
-  > | ANSWER HERE |
+  > Both are used to display information but you could say a page is the hub or the base of what will be displayed and components are pieces that you bring in to display whatever information is held in the component.
 
 03. What is ***Component-Based Architecture***?
 
@@ -21,20 +21,20 @@
 
 06. Which component in Vue does the vue-router use to mount pages onto?
 
-  > | ANSWER HERE |
+  > The router-link
 
 07. What is the difference between the `AppState` and the state object within a component?
 
-  > | ANSWER HERE |
+  > The `AppState` is holding and is the main reference for our variables, where the state object in the component is a reference to that "main" variable.
 
 08. What is the responsibility of `Services` in our Vue projects?
 
-  > | ANSWER HERE |
+  > Services is performing all of our C.R.U.D. functionality for us. 
 
 09. What are ***props*** and how are they used? Provide an example
 
-  > | ANSWER HERE |
+  > Props are references to variables/objects that we pass down from parent to child. An example is when we call a component in a page, we pass an object referene as a prop down to the component to be used to display information about that object.
 
 10. What is the Vue method used to create watchable objects such as `state` or `AppState`?
 
-  > | ANSWER HERE |
+  > watch() or we have also been using computed to "watch" values for changes.
