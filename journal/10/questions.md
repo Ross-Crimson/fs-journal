@@ -41,8 +41,14 @@
 
 09. Demonstrate the necessary SQL for creating a table called `characters` with the values `name, age, description` as strings, and an `int` id.
 
-  > | ANSWER HERE |
+  > CREATE TABLE characters(
+      id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+      name VARCHAR(255) NOT NULL,
+      age INT NOT NULL,
+      description VARCHAR(1000) NOT NULL
+    );
 
 10. In SQL how can you query more than a single table? Provide an example.
 
-  > | ANSWER HERE |
+  > Yes you can
+        SELECT * FROM table1 JOIN table2
