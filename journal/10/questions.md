@@ -40,7 +40,7 @@
   > A column would contain the type of information of all objects in the table and the row would represent an entire object and its data.
 
 09. Demonstrate the necessary SQL for creating a table called `characters` with the values `name, age, description` as strings, and an `int` id.
-```
+```c#
   CREATE TABLE characters(
       id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
       name VARCHAR(255) NOT NULL,
