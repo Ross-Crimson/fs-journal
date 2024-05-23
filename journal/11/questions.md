@@ -46,7 +46,7 @@
   )
 
   ```
-
+  ```
   > SELECT
 >   doctors*.,
 >   patients*.,
@@ -55,3 +55,4 @@
 >   doctors
 >   JOIN patients ON patients.id = patient_doctors.patientId
 >   JOIN doctors ON doctors.id = patient_doctors.doctorId
+```
